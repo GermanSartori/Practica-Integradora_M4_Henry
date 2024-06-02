@@ -1,4 +1,4 @@
-!(https://github.com/german108/Practica-Integradora_M4_Henry/blob/main/resources/1.png)
+!(resources/1.png)
 
 
 ===================================================
