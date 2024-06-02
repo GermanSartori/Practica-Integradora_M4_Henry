@@ -1,9 +1,48 @@
+===
+MUESTRA DE TRABAJO EN PROGRESO DE REALIZACIÓN
+===
+
+Configurando el entorno Docker:
 ![](resources/1.png)
+![](resources/2.png)
+
+Creando el Dataset y cargando los archivos .CSV y JSON en ‘namenode’:
+![](resources/3.png)
+
+Creando un directorio en HDFS llamado "/data" y copiando archivos CSV proporcionados a HDFS:
+![](resources/4.png)
+
+Continuando la creación de tablas en HIVE:
+![](resources/5.png)
+![](resources/6.png)
+
+Comprobando la carga:
+![](resources/7.png)
+
+Transformando a Parquet:
+![](resources/8.png)
+![](resources/9.png)
+
+Comprobando eficiencia de índices:
+SIN INDEX
+![](resources/10.png)
+(...)
+![](resources/11.png)
+
+CON INDEX
+![](resources/12.png)
+(...)
+![](resources/13.png)
+RESULTADO: 1,9 (casi dos segundos) sin aplicar INDEX a 0,2 aplicando INDEX.
 
 
-===================================================
-DEBAJO SE DETALLAN LAS CONSIGNAS PARA ESTA PRÁCTICA
-===================================================
+TAREAS RESTANTES DE REALIZACIÓN => NoSQL en adelante
+
+
+
+===
+DEBAJO SE DETALLAN LAS CONSIGNAS ORIGINALES
+===
 
 # Practica Integradora
 
