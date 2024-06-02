@@ -1,8 +1,10 @@
 
-* MUESTRA DE TRABAJO EN PROGRESO DE REALIZACIÓN
+* MUESTRA DE TRABAJO EN PROCESO DE REALIZACIÓN
+
 
 
 Configurando el entorno Docker:
+
 ![](resources/1.png)
 
 ![](resources/2.png)
