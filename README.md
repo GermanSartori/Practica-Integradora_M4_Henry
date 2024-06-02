@@ -1,3 +1,10 @@
+!(https://github.com/german108/Practica-Integradora_M4_Henry/blob/main/resources/1.png)
+
+
+===================================================
+DEBAJO SE DETALLAN LAS CONSIGNAS PARA ESTA PRÁCTICA
+===================================================
+
 # Practica Integradora
 
 Durante esta practica la idea es emular un ambiente de trabajo, desde un área de innovación solicitan construir un MVP(Producto viable mínimo) de un ambiente de Big Data donde se deban cargar unos archivos CSV que anteriormente se utilizaban en un datawarehouse en MySQl, pero ahora en un entorno de Hadoop.
