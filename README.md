@@ -62,7 +62,27 @@ RESULTADO: 1,9 (casi dos segundos) sin aplicar INDEX a 0,2 aplicando INDEX.
 
 
 
-TAREAS RESTANTES DE REALIZACIÓN => NoSQL en adelante
+NoSQL
+MongoDB
+
+Configurando MongoDB
+
+![](resources/14.png)
+
+![](resources/15.png)
+
+![](resources/16.png)
+
+
+Entrando al contenedor e importando los archivos a Mongo:
+
+![](resources/17.png)
+
+![](resources/18.png)
+
+
+Exportando los datos:
+![](resources/19.png)
 
 
 
